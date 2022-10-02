@@ -1,0 +1,23 @@
+{
+  "name": "ufw2",
+  "theme": "syntax",
+  "version": "0.5.1",
+  "description": "สลอ็ต สล็อตpg ออนไลน์ เว็บตรงไม่ผ่านเอเย่นต์ ฝากถอนไม่มีขั้นต่ํา สมัครสมาชิก PG",
+  "keywords": [
+    "pgslot",
+    "พีจีสล็อตออนไลน์",
+    "ufaworlds",
+    "SLOT",
+    "slot xo",
+    "ฝาก100 รับ130",
+    "เว็บสลอ็ตออนไลน์",
+    "สลอ็ต",
+    "สล้อต"
+  ],
+  "repository": "https://github.com/Phuthinat/ufw2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
+
